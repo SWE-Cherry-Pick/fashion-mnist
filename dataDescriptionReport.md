@@ -4,3 +4,5 @@ Fashion-MNIST is a dataset of Zalando's article images—consisting of a trainin
 
 Here's an example how the data looks (each class takes three-rows):    
 
+![fashion](https://github.com/SWE-Cherry-Pick/fashion-mnist/blob/master/fashion-mnist-sprite.png)
+
